@@ -40,12 +40,11 @@
 
 ## 🔗Links
 
-- [GitHub Repository]()
+- [GitHub Repository](https://github.com/NaikVedhas/Fake-Product-Identification-System)
 - [Demo Video](https://bit.ly/3HVumiF)
 - [Drive Link to Screenshots of your project](https://bit.ly/4bt9VXQ)
+- [Deployed Contract Link](https://bit.ly/3OBke2g)
 - [Hosted Website Link]()
-- [App APK Link]()
-- [Hosted Backend Link]()
 
 
 #### Front-end
@@ -79,8 +78,8 @@ List down all the fully implemented features in your project
 
 List down all the future plans for the project here
 
--  COMPANY CAN REGISTRATION IN THEIR OWN CURRENCY: It will be possible to Use  currency depending on the region. There wont be any compulsion to use standard currency only.
--  5% 
+-  COMPANY CAN REGISTRATION IN THEIR OWN CURRENCY: It will be possible to Use currency depending on the country. There wont be any compulsion to use standard currencies only.
+-  While registering, we will take 5% of the product's cost as fee for using our platform. 
 
 ## 💸Applications
 
@@ -99,9 +98,9 @@ MONETISATION:
 
 Monetizing a Fake Block Identification System using blockchain technology involves offering services or solutions related to authenticity verification for a fee. Here are several monetization strategies for such a system:
 
-1. A total of 5% is taken from the company. This is
+1. A total of 5% is taken from the products cost. This is will be a part of the registration and usage fee. No separate fees will later be taken. 
   
-3. Advertisement
+3. Advertisement:  
   
 4. 
 
