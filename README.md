@@ -9,7 +9,7 @@
 <div align="center">
    <strong>FAIKBLOCK</strong> - Fake Product Identification system using Blockchain Technology<br>
   CoC Inheritance 2024 || Ethereal Elites<br> <br>
-<img src= "
+<img src= "https://github.com/Nemo-0904/inheritance/blob/main/faikblock.jpg"
 </div>
 <hr>
 
