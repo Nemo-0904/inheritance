@@ -115,10 +115,10 @@ Tokens
 By leveraging these monetization strategies, a Fake Block Identification System using blockchain technology can generate revenue while providing valuable authenticity verification services to businesses and individuals across various industries.
 
 ## 🛠Project Setup
-STEP 1: Install Node.js and npm: Node.js is an open-source, cross-platform JavaScript runtime environment that executes JavaScript code outside of a web browser. It allows developers to build server-side applications in JavaScript and run them on the server. It includes a rich library of modules, known as npm (Node Package Manager), that enables developers to add functionality to their applications quickly and easily. It is widely used for web application development, building networked applications, and developing server-side scripts.
-STEP 2: Install Metamask Extension MetaMask is a browser extension and mobile app that provides an interface for interacting with decentralized applications (dApps) built on the Ethereum blockchain. It allows users to securely store, manage, and send Ethereum and other Ethereum-based tokens, as well as interact with dApps in a user-friendly way.
-STEP 3: Configure a Metamask Account
-STEP 4: Navigate to the repository and clone it: Clone our GitHub Respository
+- STEP 1: Install Node.js and npm: Node.js is an open-source, cross-platform JavaScript runtime environment that executes JavaScript code outside of a web browser. It allows developers to build server-side applications in JavaScript and run them on the server. It includes a rich library of modules, known as npm (Node Package Manager), that enables developers to add functionality to their applications quickly and easily. It is widely used for web application development, building networked applications, and developing server-side scripts.
+- STEP 2: Install Metamask Extension MetaMask is a browser extension and mobile app that provides an interface for interacting with decentralized applications (dApps) built on the Ethereum blockchain. It allows users to securely store, manage, and send Ethereum and other Ethereum-based tokens, as well as interact with dApps in a user-friendly way.
+- STEP 3: Configure a Metamask Account
+- STEP 4: Navigate to the repository and clone it: Clone our GitHub Respository
 
 ## 💻Usage
 
