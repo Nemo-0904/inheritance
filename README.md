@@ -100,8 +100,6 @@ Monetizing a Fake Block Identification System using blockchain technology involv
 1. A total of 5% is taken from the products cost. This is will be a part of the registration and usage fee. No separate fees will later be taken. 
   
 3. Advertisement:  
-  
-4. 
 
 
 1. **Subscription-based Services**: Offer subscription plans for businesses or individuals to access the authentication services provided by the system. Different tiers of subscription can be offered, each providing varying levels of features and authentication capabilities.
