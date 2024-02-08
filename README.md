@@ -32,9 +32,10 @@
 
 ## 📝Description
 
-In today's rapidly evolving technological landscape, the proliferation of counterfeit products poses a significant challenge across various industries. Whether it's counterfeit luxury goods, fraudulent pharmaceuticals, or imitation electronic components, the impact of fake objects extends beyond financial losses, often compromising consumer safety and brand reputation. To combat this growing threat, a sophisticated Fake Object Identification System emerges as a critical solution, leveraging advanced technologies to enhance authenticity detection.
+In today's fast-changing technological world, fake products are a big problem. They're not just about losing money; they can also be dangerous and hurt a brand's reputation. To address  this issue , we use a smart system that uses blockchain tech to spot fake stuff really well.
+Blockchain, known for its decentralized and immutable nature, provides a robust platform for tracking and verifying the authenticity of products throughout their lifecycle
 
-At its core, the Fake Object Identification System utilizes cutting-edge technique of blockchain technology to discern between genuine and counterfeit items with unparalleled accuracy. 
+
 
 
 ## 🔗Links
@@ -46,11 +47,7 @@ At its core, the Fake Object Identification System utilizes cutting-edge techniq
 - [App APK Link]()
 - [Hosted Backend Link]()
 
-Add any more links/resources you used for your project
-
 ## 🤖Tech-Stack
-
-Mention all languages/libraries/frameworks used in your project **domain-wise**   
 You can use icons too - find them [here](https://github.com/get-icon/geticon) 
 
 #### Front-end
@@ -63,10 +60,12 @@ You can use icons too - find them [here](https://github.com/get-icon/geticon)
 
 #### Back-end
 - NodeJS
-- 
+- Solidity
 
 Extensions:
 -Metamask
+
+
 
 ## 📈Progress
 
@@ -144,18 +143,15 @@ By leveraging these monetization strategies, a Fake Block Identification System 
 
 ## 👨‍💻Team Members
 
-
-- [Vedhas Naik](https://github.com/): 
-- [Aastha Mhatre](https://github.com/): Emai
-- [Nithya cherala](https://github.com/): 
-- [Princy Malewar](https://github.com/): Email 
+- [Vedhas Naik- ](https://github.com/NaikVedhas) [EMail](vedhasnaik121@gmail.com) :e-mail:
+- [Aastha mhatre- ](https://github.com/Aastha2675) [EMail](avmhatre_b22@el.vjti.ac.in) :e-mail:
+-[Nithya cherala - ](https://github.com/Nemo-0904) [EMail](nmcherala_b22@el.vjti.ac.in) :e-mail:
+- [Sarvagnya Purohit - ](https://github.com/Princy18Human) [EMail](malewarpriyancy@gmail.com) :e-mail: 
 
 ## 👨‍🏫Mentors
 
-Add names of your mentors with their emails and links to their GitHub accounts
-
-- [Sarvagnya Purohit - ](https://github.com/saRvaGnyA) [EMail](sarvagnyapurohit@gmail.com) :e-mail: 
-- [Devyani ][EMail](drchandane_b21@ce.vjti.ac.in) : e-mail: 
+[Sarvagnya Purohit - ](https://github.com/saRvaGnyA) [EMail](sarvagnyapurohit@gmail.com) :e-mail: 
+[ Devayani Chandane- ](https://github.com/devayani03) [EMail](sarvagnyapurohit@gmail.com) :e-mail: 
 
 ## 📱Screenshots
 Add a few screenshots for parts of the project completed till now to give the viewer a quick idea of what your project looks like. After all, a picture speaks a thousand words.
