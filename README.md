@@ -79,14 +79,12 @@ List down all the fully implemented features in your project
 
 List down all the future plans for the project here
 
--  COMPANY CAN REGISTRATION IN THEIR OWN CURRENCY
+-  COMPANY CAN REGISTRATION IN THEIR OWN CURRENCY: It will be possible to Use  currency depending on the region. There wont be any compulsion to use standard currency only.
 -  5% 
 
 ## 💸Applications
 
 The application of a Fake Products Identification System using blockchain technology has numerous real-world use cases across various industries. Here are several applications where such a system could be implemented:
-
-
 
 Authentication of Luxury Goods: 
 Luxury brands use blockchain to authenticate products, assigning each item a unique digital certificate stored on the blockchain. Consumers can verify authenticity by accessing this certificate, helping to combat counterfeiters.
@@ -135,8 +133,8 @@ By leveraging these monetization strategies, a Fake Block Identification System 
 
 ## 👨‍🏫Mentors
 
-[Sarvagnya Purohit - ](https://github.com/saRvaGnyA) [EMail](sarvagnyapurohit@gmail.com) :e-mail: 
-[Devayani Chandane - ](https://github.com/devayani03) [EMail](sarvagnyapurohit@gmail.com) :e-mail: 
+- [Sarvagnya Purohit - ](https://github.com/saRvaGnyA) [EMail](sarvagnyapurohit@gmail.com) :e-mail: 
+- [Devayani Chandane - ](https://github.com/devayani03) [EMail](sarvagnyapurohit@gmail.com) :e-mail: 
 
 ## 📱Screenshots
 Screenshots of the Project: 
