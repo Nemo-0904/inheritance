@@ -41,7 +41,7 @@
 ## 🔗Links
 
 - [GitHub Repository]()
-- [Demo Video](https://bit.ly/3SROI2D)
+- [Demo Video](https://bit.ly/48avCJr)
 - [Drive Link to Screenshots of your project]()
 - [Hosted Website Link]()
 - [App APK Link]()
