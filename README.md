@@ -9,7 +9,7 @@
 <div align="center">
    <strong>FAIKBLOCK</strong> - Fake Product Identification system using Blockchain Technology<br>
   CoC Inheritance 2024 || Ethereal Elites<br> <br>
-<!--   Add any <a href="https://shields.io/">Shields</a> here -->
+<img src= "
 </div>
 <hr>
 
