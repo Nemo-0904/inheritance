@@ -41,7 +41,7 @@
 ## 🔗Links
 
 - [GitHub Repository]()
-- [Demo Video](https://bit.ly/48avCJr)
+- [Demo Video](https://bit.ly/3HVumiF)
 - [Drive Link to Screenshots of your project]()
 - [Hosted Website Link]()
 - [App APK Link]()
@@ -68,12 +68,6 @@ Extensions:
 ## 📈Progress
 
 List down all the fully implemented features in your project
-
-- 
-- 
-- 
--  
-
 
 - [x] SCANNABLE PRODUCTS 
 - [x] EXPIRY DATE VISIBILITY
@@ -115,19 +109,16 @@ starting - free later after some time x products
 
 2. **Transaction Fees**: Charge a small fee for each transaction or verification request processed by the system. This could be a per-transaction fee or a percentage-based fee on the value of the transaction.
 
-
-//7. **Partnerships and Collaborations**: Partner with other companies, such as manufacturers, retailers, or industry associations, to offer joint authentication solutions or co-branded services. Generate revenue through partnership agreements, revenue-sharing models, or referral fees.//
-
-10. **Blockchain-based Tokens **: Introduce a blockchain-based token or cryptocurrency that powers the Fake Block Identification System. Users can purchase tokens to access authentication services or participate in the ecosystem, with the potential for token appreciation over time.
+ 3. **Blockchain-based Tokens **: Introduce a blockchain-based token or cryptocurrency that powers the Fake Block Identification System. Users can purchase tokens to access authentication services or participate in the ecosystem, with the potential for token appreciation over time.
 Tokens
 
 By leveraging these monetization strategies, a Fake Block Identification System using blockchain technology can generate revenue while providing valuable authenticity verification services to businesses and individuals across various industries.
 
 ## 🛠Project Setup
 STEP 1: Install Node.js and npm: Node.js is an open-source, cross-platform JavaScript runtime environment that executes JavaScript code outside of a web browser. It allows developers to build server-side applications in JavaScript and run them on the server. It includes a rich library of modules, known as npm (Node Package Manager), that enables developers to add functionality to their applications quickly and easily. It is widely used for web application development, building networked applications, and developing server-side scripts.
-STEP 3: Install Metamask Extension MetaMask is a browser extension and mobile app that provides an interface for interacting with decentralized applications (dApps) built on the Ethereum blockchain. It allows users to securely store, manage, and send Ethereum and other Ethereum-based tokens, as well as interact with dApps in a user-friendly way.
-STEP 4: Configure a Metamask Account
-STEP 5: Navigate to the repository and clone it: Clone our GitHub Respository
+STEP 2: Install Metamask Extension MetaMask is a browser extension and mobile app that provides an interface for interacting with decentralized applications (dApps) built on the Ethereum blockchain. It allows users to securely store, manage, and send Ethereum and other Ethereum-based tokens, as well as interact with dApps in a user-friendly way.
+STEP 3: Configure a Metamask Account
+STEP 4: Navigate to the repository and clone it: Clone our GitHub Respository
 
 ## 💻Usage
 
@@ -148,9 +139,7 @@ STEP 5: Navigate to the repository and clone it: Clone our GitHub Respository
 [Devayani Chandane - ](https://github.com/devayani03) [EMail](sarvagnyapurohit@gmail.com) :e-mail: 
 
 ## 📱Screenshots
-Add a few screenshots for parts of the project completed till now to give the viewer a quick idea of what your project looks like. After all, a picture speaks a thousand words.
-
-You'll have to link the screenshots from your drive folder here.
+Screenshots of the Project: 
 
 ![Screenshot alt text](https://i.redd.it/qp8ocyzvyj8a1.jpg "Here is a screenshot")
 
