@@ -36,7 +36,6 @@ In today's rapidly evolving technological landscape, the proliferation of counte
 
 At its core, the Fake Object Identification System utilizes cutting-edge technique of blockchain technology to discern between genuine and counterfeit items with unparalleled accuracy. 
 
-1. Include features and their usecases in bullet points
 
 ## 🔗Links
 
@@ -58,15 +57,25 @@ You can use icons too - find them [here](https://github.com/get-icon/geticon)
 - HTML
 - CSS
 - JavaScript
-- 
+- Reactjs
+- Codepen
+- Bootstrap
+
 #### Back-end
 - NodeJS
-- ExpressJS
 - 
-- 
+
+Extensions:
+-Metamask
+
 ## 📈Progress
 
 List down all the fully implemented features in your project
+
+SCANNABLE PRODUCTS
+EXPIRY DATE VISIBILITY
+ACCOUNT CREATION WITH (COINS) METAMASK 
+
 
 - [x] Fully Implemented Feature 1 
 - [x] Fully Implemented Feature 2
@@ -76,12 +85,12 @@ List down all the fully implemented features in your project
 
 List down all the future plans for the project here
 
-- Future Feature 1
-- Future Feature 2
+- 
+- 
 
 ## 💸Applications
 
-The application of a Fake Block Identification System using blockchain technology has numerous real-world use cases across various industries. Here are several applications where such a system could be implemented:
+The application of a Fake Products Identification System using blockchain technology has numerous real-world use cases across various industries. Here are several applications where such a system could be implemented:
 
 Anti-Counterfeiting in Supply Chains: Companies can use blockchain-based systems to track the movement of goods through the supply chain. By recording each transaction on the blockchain, from manufacturing to distribution, stakeholders can verify the authenticity of products and identify any instances of counterfeit goods entering the supply chain.
 
@@ -135,9 +144,8 @@ By leveraging these monetization strategies, a Fake Block Identification System 
 
 ## 👨‍💻Team Members
 
-Add names of your team members with their emails and links to their GitHub accounts
 
-- [Vedhas Naik ](https://github.com/): 
+- [Vedhas Naik](https://github.com/): 
 - [Aastha Mhatre](https://github.com/): Emai
 - [Nithya cherala](https://github.com/): 
 - [Princy Malewar](https://github.com/): Email 
