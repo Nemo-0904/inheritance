@@ -134,5 +134,6 @@ By leveraging these monetization strategies, a Fake Block Identification System 
 Screenshots of the Project: 
 
 ![Screenshot alt text](https://github.com/Nemo-0904/inheritance/blob/main/main.jpg "Here is a screenshot")
+![Screenshot alt text](https://github.com/Nemo-0904/inheritance/blob/main/backend.jpg "Here is a screenshot")
 
 
