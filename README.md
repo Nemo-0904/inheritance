@@ -117,11 +117,6 @@ By leveraging these monetization strategies, a Fake Block Identification System 
 - STEP 3: Configure a Metamask Account
 - STEP 4: Navigate to the repository and clone it: Clone our GitHub Respository
 
-## 💻Usage
-
->Steps to run your project once its setup. If you have an app or website, list how the user can go about using it.
->install node.js
->
 
 ## 👨‍💻Team Members
 
