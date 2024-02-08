@@ -63,7 +63,7 @@ You can use icons too - find them [here](https://github.com/get-icon/geticon)
 - Solidity
 
 Extensions:
--Metamask
+- Metamask
 
 
 
@@ -71,9 +71,9 @@ Extensions:
 
 List down all the fully implemented features in your project
 
-SCANNABLE PRODUCTS
-EXPIRY DATE VISIBILITY
-ACCOUNT CREATION WITH (COINS) METAMASK 
+- SCANNABLE PRODUCTS
+- EXPIRY DATE VISIBILITY
+- ACCOUNT CREATION WITH (COINS) METAMASK 
 
 
 - [x] Fully Implemented Feature 1 
@@ -145,13 +145,13 @@ By leveraging these monetization strategies, a Fake Block Identification System 
 
 - [Vedhas Naik- ](https://github.com/NaikVedhas) [EMail](vedhasnaik121@gmail.com) :e-mail:
 - [Aastha mhatre- ](https://github.com/Aastha2675) [EMail](avmhatre_b22@el.vjti.ac.in) :e-mail:
--[Nithya cherala - ](https://github.com/Nemo-0904) [EMail](nmcherala_b22@el.vjti.ac.in) :e-mail:
-- [Sarvagnya Purohit - ](https://github.com/Princy18Human) [EMail](malewarpriyancy@gmail.com) :e-mail: 
+- [Nithya cherala - ](https://github.com/Nemo-0904) [EMail](nmcherala_b22@el.vjti.ac.in) :e-mail:
+- [Sarvagnya Purohit -](https://github.com/Princy18Human) [EMail](malewarpriyancy@gmail.com) :e-mail: 
 
 ## 👨‍🏫Mentors
 
 [Sarvagnya Purohit - ](https://github.com/saRvaGnyA) [EMail](sarvagnyapurohit@gmail.com) :e-mail: 
-[ Devayani Chandane- ](https://github.com/devayani03) [EMail](sarvagnyapurohit@gmail.com) :e-mail: 
+[Devayani Chandane - ](https://github.com/devayani03) [EMail](sarvagnyapurohit@gmail.com) :e-mail: 
 
 ## 📱Screenshots
 Add a few screenshots for parts of the project completed till now to give the viewer a quick idea of what your project looks like. After all, a picture speaks a thousand words.
