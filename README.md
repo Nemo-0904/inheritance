@@ -99,9 +99,12 @@ MONETISATION:
 
 Monetizing a Fake Block Identification System using blockchain technology involves offering services or solutions related to authenticity verification for a fee. Here are several monetization strategies for such a system:
 
-5% taken frm company
-advertisement  
-starting - free later after some time x products 
+1. A total of 5% is taken from the company. This is
+  
+3. Advertisement
+  
+4. 
+
 
 1. **Subscription-based Services**: Offer subscription plans for businesses or individuals to access the authentication services provided by the system. Different tiers of subscription can be offered, each providing varying levels of features and authentication capabilities.
 
