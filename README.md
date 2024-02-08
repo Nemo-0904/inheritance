@@ -42,7 +42,7 @@
 
 - [GitHub Repository]()
 - [Demo Video](https://bit.ly/3HVumiF)
-- [Drive Link to Screenshots of your project]()
+- [Drive Link to Screenshots of your project](https://bit.ly/4bt9VXQ)
 - [Hosted Website Link]()
 - [App APK Link]()
 - [Hosted Backend Link]()
