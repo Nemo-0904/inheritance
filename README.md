@@ -133,6 +133,6 @@ By leveraging these monetization strategies, a Fake Block Identification System 
 ## 📱Screenshots
 Screenshots of the Project: 
 
-![Screenshot alt text](https://drive.google.com/drive/u/0/my-drive?q=after:2024-02-08%20parent:0AKy-qqMqBzUXUk9PVA "Here is a screenshot")
+![Screenshot alt text](https://github.com/Nemo-0904/inheritance/blob/main/main.jpg "Here is a screenshot")
 
 
