@@ -133,8 +133,6 @@ By leveraging these monetization strategies, a Fake Block Identification System 
 ## 📱Screenshots
 Screenshots of the Project: 
 
-![Screenshot alt text](https://i.redd.it/qp8ocyzvyj8a1.jpg "Here is a screenshot")
+![Screenshot alt text](https://drive.google.com/drive/u/0/my-drive?q=after:2024-02-08%20parent:0AKy-qqMqBzUXUk9PVA "Here is a screenshot")
 
-Use this template as a guide for writing your documentation. Feel free to customize and adapt it for you project.  
-For more Markdown syntax help, visit [here](https://www.markdownguide.org/basic-syntax/)
 
